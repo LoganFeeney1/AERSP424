@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Logan\u0027s PC\\OneDrive\\Documents\\Penn State\\AERSP 424\\424 Homework 1\\Homwork 1\\Problem3,4,5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F679574A-F23C-46F0-B9F4-B414CABB41C7}|Problem3.vcxproj|C:\\Users\\Logan\u0027s PC\\OneDrive\\Documents\\Penn State\\AERSP 424\\424 Homework 1\\Homwork 1\\Problem3,4,5\\Problem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F679574A-F23C-46F0-B9F4-B414CABB41C7}|Problem3.vcxproj|solutionrelative:Problem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem3.cpp",
+              "DocumentMoniker": "C:\\Users\\Logan\u0027s PC\\OneDrive\\Documents\\Penn State\\AERSP 424\\424 Homework 1\\Homwork 1\\Problem3,4,5\\Problem3.cpp",
+              "RelativeDocumentMoniker": "Problem3.cpp",
+              "ToolTip": "C:\\Users\\Logan\u0027s PC\\OneDrive\\Documents\\Penn State\\AERSP 424\\424 Homework 1\\Homwork 1\\Problem3,4,5\\Problem3.cpp",
+              "RelativeToolTip": "Problem3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-15T00:17:08.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

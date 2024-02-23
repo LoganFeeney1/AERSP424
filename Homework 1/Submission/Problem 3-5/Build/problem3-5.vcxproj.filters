@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Logan's PC\OneDrive\Documents\Penn State\AERSP 424\424 Homework 1\Homework 1\Submission\Problem 3-5\Problem3,4,5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Logan's PC\OneDrive\Documents\Penn State\AERSP 424\424 Homework 1\Homework 1\Submission\Problem 3-5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8D7C4B1E-66A9-3C4E-A6B0-33959845ACE0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
